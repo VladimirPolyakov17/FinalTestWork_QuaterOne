@@ -10,3 +10,5 @@
 ["Russia", "Denmark", "Kazan"] -> []
 
 # Решение Задачи:
+
+![Блок-схема](BlockAlgorithm.png)
