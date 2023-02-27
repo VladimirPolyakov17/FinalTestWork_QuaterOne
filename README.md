@@ -12,3 +12,5 @@
 # Решение Задачи:
 
 ![Блок-схема](BlockAlgorithm.png)
+
+-Реализация алгоритма на языке C# находится в папке по пути FinalTestWorkQuaterOne/Program.cs
